@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "All in One Social Media",
+    "description": "Quickly launch any social media site and share an update",
+    "version": "1.0.0",
+    "icons": {"128": "images/All_in_One_Social_Media_Logo_128.png"},
+    "browser_action": {
+        "default_icon": "logo.png",
+        "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+}
